@@ -89,4 +89,4 @@
 // `;
 
 // // Menyisipkan htmlFragment ke dalam dokumen HTML
-// document.body.innerHTML = htmlFragment;
+// document.body.innerHTML = htmlFragment;c
